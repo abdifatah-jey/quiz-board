@@ -17,3 +17,14 @@ body{
 strong{
   background-color: pink;
 }
+.test-showing{
+  display: none;
+}
+p {
+cursor: pointer;
+color: #0088cc;
+}
+
+p:hover {
+text-decoration: underline;
+}
