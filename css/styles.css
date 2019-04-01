@@ -9,6 +9,10 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
 }
-contact{
+#form{
+  padding: 2px;
+  border: 3px;
+}
+strong{
   background-color: pink;
 }
