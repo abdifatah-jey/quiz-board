@@ -10,13 +10,13 @@ function check() {
         if (q1 == "c") {
           count+=20;
         }
-        if (q2 == "c"){
+        if (q2 == "a"){
           count+=20;
         }
-        if (q3 == "b"){
+        if (q3 == "a"){
           count+=20;
         }
-        if (q4 == "c"){
+        if (q4 == "a"){
           count+=20;
         }
         if (q5 == "b"){
