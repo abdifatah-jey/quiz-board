@@ -11,7 +11,7 @@ It can determine if the provided answer is wrong
 
 Example Input : no answered questions Example Output: 0 (No mark not awarded)
 
-Example Input : right answer Example Output: 25 (25 Marks awarded) It can determine if the provided answer is correct
+Example Input : right answer Example Output: 20 (20 Marks awarded) It can determine if the provided answer is correct
 
 Example Input: Wrong answer Example Output: 0 (Mark not awarded)
 
